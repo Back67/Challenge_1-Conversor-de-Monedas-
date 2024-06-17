@@ -1,4 +1,4 @@
-# Conversor de Monedas
+## Conversor de Monedas 
 
 Este proyecto es un conversor de monedas sencillo desarrollado en Java. Permite convertir cantidades entre varias monedas utilizando tasas de cambio fijas.
 
@@ -23,18 +23,18 @@ Este proyecto es un conversor de monedas sencillo desarrollado en Java. Permite 
    java ConversorMonedas
 
 
- ## Uso del Conversor de Monedas ##
+ ## Uso del Conversor de Monedas 
    1. Al iniciar el programa, se mostrará un menú con las opciones de conversión disponibles.
    2. Elija la opción de conversión deseada (por ejemplo, "1" para convertir USD a ARS).
    3. Ingrese la cantidad que desea convertir.
    4. El programa mostrará el resultado de la conversión.
    5. Puede continuar realizando más conversiones o seleccionar la opción para salir.
 
-## Contribuciones ##
+## Contribuciones 
 Las contribuciones son bienvenidas. 
 Si tienes ideas para mejorar este proyecto, por favor abre un issue o envía un pull request.
 
-## Contacto #$
+## Contacto 
 Nombre del Desarrollador: Daniel Cruz
 Correo Electrónico: danielcruzsoldier@gmail.com 
 GitHub: Back67
